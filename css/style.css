@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-hero .flexslider .slides li {
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: bottom center;
+  background-position: top center;
   min-height: 800px;
   position: relative;
 }
@@ -485,7 +485,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-intro {
-  padding: 6em 0 4em 0;
+  padding: 1em 0 1em 0;
 }
 #fh5co-intro h2 {
   font-size: 40px;
