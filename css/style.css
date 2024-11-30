@@ -16,11 +16,7 @@ body {
   font-size: 14px;
   line-height: 1.7;
   color: #767676;
-  background: rgba(232, 232, 232, 0.6);
-  /* START white border*/
-  border-left: 20px solid #fff;
-  border-right: 20px solid #fff;
-  /* END white border*/
+  background: white;
 }
 body:before, body:after {
   content: "";
